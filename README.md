@@ -7,7 +7,7 @@ Installation:
   Start the server: node server.js
 
 Database:
-  BigAppdb  
+  BigApp  
 
 Collections:
     Register : To save user data
